@@ -6,10 +6,10 @@ my goal with making this utility is to allow a profile based system for managing
 
 # commands
 ### **mcserve start**
-Prompts you to select a server profile and then launch said server.
+Prompts you to select a server profile and then launches said server.
 
 ### **mcserve create**
-Prompts you to select a game version from installed versions of minecraft and assign a profile name then download the server jar and run it once to generate the eula.txt then open the directory with the eula.txt
+Prompts you to select a game version from installed versions of minecraft and assign a profile name then download the server jar and run it once to generate the eula.txt as well as open the directory with the eula.txt
 
 ### **mcserve config**
 Prompts you to select a profile then provide an interface to manipulate the server.properties file.
