@@ -1,0 +1,22 @@
+{
+  "name": "mcserve",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.2",
+    "path": "^0.12.7",
+    "yargs": "^13.2.2"
+  },
+  "bin": {
+    "mcserve": "./bin/mcserve"
+  }
+}
